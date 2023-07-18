@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TopMenu Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="44.388">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserShouldLoginAndLogoutSuccessfully" time="23.600" classname="com.tutorialsninja.testsuite.AccountRegisterPageTest" />
+                <testcase name="verifyUserShouldNavigateToLoginPageSuccessfully" time="20.788" classname="com.tutorialsninja.testsuite.AccountRegisterPageTest" />
+      
+</testsuite>
